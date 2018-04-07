@@ -1,0 +1,15 @@
+.iterator {
+    width: 100px;
+}
+.iterator>div {
+    text-align: center;
+}
+.photoURL {
+    width: 100px;
+    float: left;
+}
+
+.title {
+    font-size: 150px;
+    text-align: center;
+}
